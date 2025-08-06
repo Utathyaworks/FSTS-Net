@@ -7,6 +7,6 @@ This repository contains the **predicted segmentation masks**  of FSTS-Net as pr
 [FSTS-Net Predictions](image/pred.png)
 
 <p align="center">
-  <img src="predicted_masks/sample_input.png" alt="FSTS-Net Predictions" width="45%"/>
+  <img src="image/pred.png" alt="FSTS-Net Predictions" width="45%"/>
 
 </p>
