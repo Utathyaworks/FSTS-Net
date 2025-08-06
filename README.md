@@ -4,5 +4,9 @@ This repository contains the **predicted segmentation masks**  of FSTS-Net as pr
 
 **FSTS-Net: A Feature-mixing aided Semi-supervised Teacher-Student Network for Polyp Image Segmentation**
 
-[FSTS-Net Architecture](image/pred.png)
+[FSTS-Net Predictions](image/pred.png)
 
+<p align="center">
+  <img src="predicted_masks/sample_input.png" alt="FSTS-Net Predictions" width="45%"/>
+
+</p>
