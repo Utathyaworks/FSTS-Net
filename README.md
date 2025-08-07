@@ -10,3 +10,6 @@ This repository contains the **predicted segmentation masks**  of FSTS-Net as pr
   <img src="image/pred.png" alt="FSTS-Net Predictions" width="45%"/>
 
 </p>
+
+
+**Full code will be uploaded on paper acceptance**
